@@ -29,7 +29,7 @@
 
       * Create Scratch lecture slides for Lesson 5 - Functions and created Sratch program to accoompany slides (done by Friday)
 
-      * Worked with Scratch team to finalize (vet, clean up, 'make pretty') Lessons and Exercises - lesson slides, practice exercise documents, practice exercise starter files, and practice exercise answer keys
+      * Worked with Scratch team to finalize (vet, clean up, 'make pretty') Lessons and Exercises - lesson slides, practice exercise documents, practice exercise starter files, and practice exercise answer keys (done by Friday)
     
     * Dakota Brown
   
