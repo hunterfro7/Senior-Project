@@ -3,16 +3,24 @@
 
 1. Project Members:
     * Benjamin Napier
+          * Attended and documented every CodeVA friday meeting
+          * Attended and documented every tuesday group meeting
+          * Created and submitted Sternheimer Award proposal document
+          * Worked with group to establish Google Drive space for our versions of the lessons and exercises
+          * Created slideshows for Python lessons 1 and 2
+          * Created Python coding challenges to accompany lessons
+          * Handled email communications between CodeVA and the team as well as email communications for Sternheimer Award information
+          * Created a web-based UI to navigate the lessons
+          * Worked with Kenny to create Project Charter document
     * Seth Vickers
     * Hunter Frostick
-      * Created Lesson 4 for scratch, mild, medium and spicy and presented to CodeVa.
     * Kenny Richardson
       * Attended and documented every CodeVA friday meeting
       * Attended and documented every tuesday group meeting
 
       * Working with Ben to create Project Charter document
 
-      * Did Scratch tutorial and douctmented experience, created two explorative "idea" projects to gain experience
+      * Did Scratch tutorial and documented experience, created two explorative "idea" projects to gain experience
 
       * Had two non-compsci friends do Scratch tutorial and documented their exerpeinces
 
@@ -28,7 +36,7 @@
 
       * Vetted existing Scratch lesson plans and exercises
 
-      * Create Scratch lecture slides for Lesson 5 - Functions and created Sratch program to accoompany slides (done by Friday)
+      * Create Scratch lecture slides for Lesson 5 - Functions and created Scratch program to accompany slides (done by Friday)
 
       * Worked with Scratch team to finalize (vet, clean up, 'make pretty') Lessons and Exercises - lesson slides, practice exercise documents, practice exercise starter files, and practice exercise answer keys (done by Friday)
     
