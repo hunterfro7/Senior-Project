@@ -3,19 +3,33 @@
 
 1. Project Members:
     * Benjamin Napier
+    
          * Attended and documented every CodeVA friday meeting
+         
          * Attended and documented every tuesday group meeting
+         
          * Created and submitted Sternheimer Award proposal document
+         
          * Worked with group to establish Google Drive space for our versions of the lessons and exercises
+         
          * Created slideshows for Python lessons 1 and 2
+         
          * Created Python coding challenges to accompany lessons
+         
          * Handled email communications between CodeVA and the team as well as email communications for Sternheimer Award information
+         
          * Created a web-based UI to navigate the lessons
+         
          * Worked with Kenny to create Project Charter document
+         
+         * Began researching computer science after school club possibilities by reading articles and existing lesson plans
+         
     * Seth Vickers
     * Hunter Frostick
     * Kenny Richardson
+    
       * Attended and documented every CodeVA friday meeting
+      
       * Attended and documented every tuesday group meeting
 
       * Working with Ben to create Project Charter document
