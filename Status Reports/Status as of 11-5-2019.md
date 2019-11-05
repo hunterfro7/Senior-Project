@@ -25,6 +25,14 @@
          * Began researching computer science after school club possibilities by reading articles and existing lesson plans
          
     * Seth Vickers
+        * Attended and documented every CodeVA friday meeting
+        * Attended and documented every tuesday group meeting
+        * Created Spicy level Scratch projects for Lessons 1, 2 and 3
+        * Created Extra Spicy level Scratch project for Lesson 4
+        * Created a Soccer Scratch project combining all lessons learned
+        * Beautified all Scratch projects done by me
+        * Created Question-Key schema for all Scratch projects done by me
+        
     * Hunter Frostick
     * Kenny Richardson
     
