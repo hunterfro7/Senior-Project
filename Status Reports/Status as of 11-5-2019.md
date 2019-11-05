@@ -5,6 +5,7 @@
     * Benjamin Napier
     * Seth Vickers
     * Hunter Frostick
+      * Created Lesson 4 for scratch, mild, medium and spicy and presented to CodeVa.
     * Kenny Richardson
       * Attended and documented every CodeVA friday meeting
       * Attended and documented every tuesday group meeting
