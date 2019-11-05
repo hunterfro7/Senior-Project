@@ -1,0 +1,39 @@
+# CMSC 451 - CodeVA Python SOL Development
+## Status Report
+
+1. Project Members:
+    * Benjamin Napier
+    * Seth Vickers
+    * Hunter Frostick
+    * Kenny Richardson
+      * Attended and documented every CodeVA friday meeting
+      * Attended and documented every tuesday group meeting
+
+      * Working with Ben to create Project Charter document
+
+      * Did Scratch tutorial and douctmented experience, created two explorative "idea" projects to gain experience
+
+      * Had two non-compsci friends do Scratch tutorial and documented their exerpeinces
+
+      * Did research into existing curriculums that aim to teach computer science concepts to K-12
+
+      * Created and submitted Sterheimer Award proposal document
+
+      * Worked with group to establish Google Drive space for our versions of the lessons and exercises
+
+      * Created "medium" Scratch practice exercise and key for lesson 3
+
+      * Created Scratch lecture slides for Lesson 4 - Conditionals and created Sratch program to accoompany slides
+
+      * Vetted existing Scratch lesson plans and exercises
+
+      * Create Scratch lecture slides for Lesson 5 - Functions and created Sratch program to accoompany slides (done by Friday)
+
+      * Worked with Scratch team to finalize (vet, clean up, 'make pretty') Lessons and Exercises - lesson slides, practice exercise documents, practice exercise starter files, and practice exercise answer keys
+    
+    * Dakota Brown
+  
+
+2. List of issues, problems, or concern(s)
+    * Issue - team member accountable
+    * Problem - team member accountable
