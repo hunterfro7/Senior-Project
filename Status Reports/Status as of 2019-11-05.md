@@ -34,6 +34,15 @@
         * Created Question-Key schema for all Scratch projects done by me
         
     * Hunter Frostick
+         * Attended and documented every CodeVA friday meeting
+         * Attended and documented every tuesday group meeting
+         * Created mild level Scratch projects for Lessons 1
+         * Created mild level Scratch projects for Lessons 2
+         * Created mild level Scratch projects for Lessons 3
+         * Created medium level Scratch projects for Lessons 2
+         * Created medium level Scratch projects for Lessons 2
+         * Worked with group to establish Google Drive space for our versions of the lessons and exercises
+          
     * Kenny Richardson
     
       * Attended and documented every CodeVA friday meeting
