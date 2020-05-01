@@ -4,13 +4,13 @@
   - This is the front-end for presenting our work.
   
 ## Documentation
-  - This is where we hold our design documents.
+  - This is where we hold our design documents, as well as all final documents (i.e. EXPO poster, etc.).
   
 ## Notes and Research
   - This holds various documents from CodeVA and around the internet to help understand the scope of the project.
   
-## PythonTwins
-  - This is the location for our Python code files used for supplementing lessons.
+## Projects
+  - Central location for all four of the sub-projects belonging to this Capstone group
   
 ## Status Reports
   - This is where we report our weekly progress.
